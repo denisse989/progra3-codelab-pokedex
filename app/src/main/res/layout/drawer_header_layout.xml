@@ -9,16 +9,16 @@
     android:padding="30dp">
 
     <ImageView
-        android:layout_width="80dp"
-        android:layout_height="80dp"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/ash_ketchum" />
+        android:src="@drawable/domo" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:gravity="center"
-        android:text="ASH KETCHUM"
+        android:text="Domo Denisse"
         android:textColor="@color/colorBlack"
         android:textSize="18sp"
         android:textStyle="bold" />
